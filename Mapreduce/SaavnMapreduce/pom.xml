@@ -5,7 +5,7 @@
   <groupId>com.mapreduce.saavn</groupId>
   <artifactId>SaavnMapreduce</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar12345</packaging>
+  <packaging>jar_branch_2_12345</packaging>
 
   <name>SaavnMapreduce</name>
   <url>http://maven.apache.org</url>
